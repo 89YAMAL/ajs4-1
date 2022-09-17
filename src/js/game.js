@@ -4,7 +4,7 @@ export default function getHealth(data) {
     result = 'healthy';
   } else if (data.health <= 50 && data.health >= 15) {
     result = 'wounded';
-  } else if (data.health < 15) {
+  } else {
     result = 'critical';
   }
   return result;
