@@ -1,5 +1,5 @@
 {
-  "name": "ajs4-1",
+  "name": "ajs5-1",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,12 +10,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/89YAMAL/ajs4-1.git"
+    "url": "git+https://github.com/89YAMAL/ajs5-1.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/89YAMAL/ajs4-1/issues"
+    "url": "https://github.com/89YAMAL/ajs5-1/issues"
   },
   "homepage": "https://github.com/89YAMAL/ajs4-1#readme",
   "devDependencies": {
